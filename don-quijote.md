@@ -1,13 +1,13 @@
-En un lugar de los Repos,
+<p>En un lugar de los <em>Repos</em>,</p>
 
-de cuyo commit no quiero acordarme,
+<p>de cuyo <em>commit</em> no quiero acordarme,</p>
 
-no ha mucho log que vivía
+<p>no ha mucho <em>log</em> que vivía</p>
 
-un hidalgo de los de head en master,
+<p>un hidalgo de los de <em>head</em> en <em>master</em>,</p>
 
-push antiguo,
+<p><em>push</em> antiguo,</p>
 
-git flaco y remote corredor.
+<p><em>pull</em> flaco y <em>remote</em> corredor.</p>
 
-git commit -m “Don Quijote de la Mancha”
+<p><code>git commit -m &quot;Don Quijote de la Mancha&quot;</code> </p>
